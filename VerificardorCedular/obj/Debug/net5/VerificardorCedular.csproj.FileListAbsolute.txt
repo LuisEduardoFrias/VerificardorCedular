@@ -1,0 +1,16 @@
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\obj\Debug\net5\VerificardorCedular.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\obj\Debug\net5\VerificardorCedular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\obj\Debug\net5\VerificardorCedular.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\obj\Debug\net5\VerificardorCedular.AssemblyInfo.cs
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\obj\Debug\net5\VerificardorCedular.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\bin\Debug\net5\VerificardorCedular.exe
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\bin\Debug\net5\VerificardorCedular.deps.json
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\bin\Debug\net5\VerificardorCedular.runtimeconfig.json
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\bin\Debug\net5\VerificardorCedular.runtimeconfig.dev.json
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\bin\Debug\net5\VerificardorCedular.dll
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\bin\Debug\net5\ref\VerificardorCedular.dll
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\bin\Debug\net5\VerificardorCedular.pdb
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\obj\Debug\net5\VerificardorCedular.dll
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\obj\Debug\net5\ref\VerificardorCedular.dll
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\obj\Debug\net5\VerificardorCedular.pdb
+C:\Users\Luis\Desktop\VerificardorCedular\VerificardorCedular\obj\Debug\net5\VerificardorCedular.genruntimeconfig.cache

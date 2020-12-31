@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VerificardorCedular/1.0.0": {
+        "runtime": {
+          "VerificardorCedular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VerificardorCedular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
